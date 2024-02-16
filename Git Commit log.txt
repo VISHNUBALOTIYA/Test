@@ -1,0 +1,67 @@
+commit 6fb4569599f0881bf30e051e6974a147ef095c54
+Author: vpbalotiya <vpbalotiya@crestron.com>
+Date:   Fri Feb 16 21:00:56 2024 +0530
+
+    restructure and added all required files
+
+commit 96150dda8f033e42abf8ea50eacad67edad32fed
+Author: vpbalotiya <vpbalotiya@crestron.com>
+Date:   Fri Feb 16 20:50:44 2024 +0530
+
+    restructured and added all required file and project files
+    
+    restructured and added all required file and project files
+
+commit 776792aad199b8838df771c33bf6db194fcc8acf
+Author: vpbalotiya <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Fri Feb 16 19:28:52 2024 +0530
+
+    Add files via upload
+    
+    all Screen shot for verification deployed application into other account
+
+commit bac24e671c792fc3a87ff6c77c3782ff4535381a
+Author: vpbalotiya <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Fri Feb 16 19:20:34 2024 +0530
+
+    Create AKSDeployment.yaml
+    
+    added aks deployed script
+
+commit 528511ae5a78b66a6c52f979d15b93382ab0b522
+Author: vpbalotiya <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Fri Feb 16 19:17:36 2024 +0530
+
+    Create deployimage.yaml
+    
+    added docker image deployment script deployment to ACR
+
+commit 01ed0c9af63a7baba665c5446d99636a3a2fbe89
+Author: vpbalotiya <vpbalotiya@crestron.com>
+Date:   Sun Feb 11 11:24:03 2024 +0530
+
+    added proj files
+
+commit 6df5c7ac2c5e2a82e608899aa59ecc30f157d363
+Author: vpbalotiya <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Sun Feb 11 11:21:06 2024 +0530
+
+    Delete WebApplication1.sln
+
+commit 81aad2d7a9f7d5f67bab4e15fe988aa43db4815e
+Author: vpbalotiya <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Sun Feb 11 11:20:50 2024 +0530
+
+    Delete WebApplication5
+
+commit 08049bccc1e9ce98eba97630029396e18ed1b541
+Author: vpbalotiya <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Sun Feb 11 11:19:04 2024 +0530
+
+    Create WebApplication5
+
+commit 6e824ebc47d80ab858ad8bab70f2bbc8caebafa8
+Author: vpbalotiya-crestron <49268217+VISHNUBALOTIYA@users.noreply.github.com>
+Date:   Fri Feb 9 19:10:57 2024 +0530
+
+    Add files via upload
